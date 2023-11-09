@@ -32,7 +32,7 @@ This project implements a basic electronic voting system that requires a login p
 * After successful login, the EVM will display two options:
   1. Voting mode.
   2. Results.
-*Vote for your preferred option by pressing the corresponding pushbutton
+* Vote for your preferred option by pressing the corresponding pushbutton
   
 ### 3. Voting:
 
