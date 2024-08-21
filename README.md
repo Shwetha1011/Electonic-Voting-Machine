@@ -19,7 +19,6 @@ This project is a basic electronic voting system with a login password. It uses 
 2. Upload the provided code (evm.ino) to your Arduino UNO using the Arduino IDE.
 ![IMG_20231109_171120_877](https://github.com/user-attachments/assets/ed227d2c-78a8-4740-89c8-e8b0265a9734)
 
-![IMG_20231109_171302_354](https://github.com/user-attachments/assets/ac6a4cd6-5577-4af7-8136-816e7b4f1e86)
 
 ## Usage
 
@@ -39,6 +38,8 @@ This project is a basic electronic voting system with a login password. It uses 
 - Select **Voting** and enter your Voter ID.
 - Choose your candidate (Virat, Dhoni, Sachin) by pressing the corresponding pushbutton.
 - A confirmation message will appear, and you can vote again or view results.
+![IMG_20231109_171302_354](https://github.com/user-attachments/assets/ac6a4cd6-5577-4af7-8136-816e7b4f1e86)
+
 ![IMG_20231109_172722_683](https://github.com/user-attachments/assets/58101ae5-86e3-4914-b806-48b70273cb0a)
 
 
