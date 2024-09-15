@@ -1,4 +1,4 @@
-# Election Voting System
+# Electronic Voting Machine
 
 This project uses an Arduino, OLED display, and buttons to create a simple election voting system. It supports password-protected voting and results display.
 
